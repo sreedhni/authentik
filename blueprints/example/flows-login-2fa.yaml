@@ -5,6 +5,9 @@ metadata:
   name: Example - Two-factor Login
 entries:
   - identifiers:
+
+
+  
       slug: default-authentication-flow
     model: authentik_flows.flow
     id: flow
